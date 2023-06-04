@@ -9,29 +9,29 @@ include_once('main.php');
         <script src = "JS/searchForUpdateStudent.js"></script>
 
         <style>
-    .table {
-      margin-top: 20px;
-    }
+          .table {
+            margin-top: 20px;
+          }
 
-    th,
-    td {
-      vertical-align: middle !important;
-    }
+          th,
+          td {
+            vertical-align: middle !important;
+          }
 
-    th {
-      background-color: #f8f9fa;
-    }
+          th {
+            background-color: #f8f9fa;
+          }
 
-    img {
-      max-width: 100%;
-      height: auto;
-    }
+          img {
+            max-width: 100%;
+            height: auto;
+          }
 
-    .btn-custom {
-      background-color: #007bff;
-      color: #ffffff;
-    }
-  </style>
+          .btn-custom {
+            background-color: #007bff;
+            color: #ffffff;
+          }
+        </style>
 		</head>
     <body>
     <?php include './include/header.php' ?>
